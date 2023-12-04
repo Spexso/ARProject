@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5053326354691063731
+  m_GuidHigh: 2105330041269480598
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4983264475806494999
+      m_GuidHigh: 6801284561783325587
+    m_SerializedTextureGuid:
+      m_GuidLow: 4784082076355269131
+      m_GuidHigh: 2368933401925655977
+    m_Size: {x: 0.11, y: 0.18962686}
+    m_SpecifySize: 1
+    m_Name: ParentPictureMyself
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4850202232086798083
+      m_GuidHigh: 9497220360947847587
+    m_SerializedTextureGuid:
+      m_GuidLow: 1640657069012928656
+      m_GuidHigh: 6152612705873774617
+    m_Size: {x: 0.085, y: 0.086417794}
+    m_SpecifySize: 1
+    m_Name: Mug
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4957904274424437926
+      m_GuidHigh: 10150181842875695794
+    m_SerializedTextureGuid:
+      m_GuidLow: 16583480145341697971
+      m_GuidHigh: 371429575954622073
+    m_Size: {x: 0.32, y: 0.17992704}
+    m_SpecifySize: 1
+    m_Name: ParentPrefabEngineer
+    m_Texture: {fileID: 2800000, guid: 42d5cfb35b54e6247966d93d3b952705, type: 3}

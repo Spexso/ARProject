@@ -1,0 +1,3 @@
+rep "first_project@Spexso@cloud"
+  path "/"
+    smartbranch "/main"
