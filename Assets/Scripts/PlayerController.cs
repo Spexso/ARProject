@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    // Initialize shifting speed of moving object
+    // Also a condition check bool to move 
     public float shiftSpeed = 5f;
     private bool moveRight = true;
 
